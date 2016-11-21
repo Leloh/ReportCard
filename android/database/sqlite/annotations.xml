@@ -1,0 +1,6 @@
+<root>
+  <item name='android.database.sqlite.SQLiteDatabase mConfigurationLocked'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
